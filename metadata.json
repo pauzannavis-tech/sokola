@@ -1,0 +1,10 @@
+{
+  "name": "SISTA AI & Perjal Sokola",
+  "description": "Sistem Sortir Tekstil Cerdas dan Daur Ulang Pakaian Bekas berbasis Vision AI.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
